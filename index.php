@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>my git </title>
+	<title>my first git </title>
 </head>
 <body>
 
